@@ -2,7 +2,7 @@ MISAT
 Musical Instrument Sample Analysis Tool
 
 Purpose:
-To provide detailed information about musical instrument samples in PCM format for the purpose of generalizing and building small, high-quality loop-based instruments.
+To provide detailed information about musical instrument samples in PCM format for the purpose of generalizing and building small, high-quality loop-based instruments.  Can also be used for fingerprinting.
 
 Todo:
     General:
